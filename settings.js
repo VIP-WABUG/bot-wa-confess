@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.fotomenfess = fs.readFileSync("./menfess.jpg")
-global.owner = ["62887435047326"]
+global.owner = ["62895339965925"]
 
 global.help = {
 Menu(pushname){
